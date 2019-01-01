@@ -1,0 +1,17 @@
+GEN 0: highest score: 176
+GEN 1: highest score: 139
+GEN 2: highest score: 137
+GEN 3: highest score: 137
+GEN 4: highest score: 150
+GEN 5: highest score: 116
+GEN 6: highest score: 114
+GEN 7: highest score: 248
+GEN 8: highest score: 191
+GEN 9: highest score: 116
+GEN 10: highest score: 211
+GEN 11: highest score: 157
+GEN 12: highest score: 175
+GEN 13: highest score: 137
+GEN 14: highest score: 150
+GEN 15: highest score: 138
+GEN 16: highest score: 137
